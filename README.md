@@ -142,6 +142,7 @@
 
 - [ ] Статті:
     - [ ] [Функциональное программирование для всех (habrahabr)](https://habrahabr.ru/post/142351/)
+    - [ ] [Функциональное программирование на Javascript](https://habrahabr.ru/post/154105/)
     - [ ] [Умение видеть абстракции (habrahabr)](https://habrahabr.ru/company/infopulse/blog/185144/)
     - [ ] [Why Learn Functional Programming in JavaScript?](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
 
