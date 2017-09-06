@@ -123,6 +123,8 @@
     - [ ] [Объектно-ориентированное конструирование программных систем (Бертран Мейер)](https://drive.google.com/open?id=0B6RY5nuSHTcwclpaRWQyMi1sMlE)
     
 - [ ] Статті:
+    - [ ] [ООП с примерами (часть 1)](https://habrahabr.ru/post/87119/)
+    - [ ] [ООП с примерами (часть 2)](https://habrahabr.ru/post/87205/)
     - [ ] [JavaScript: ООП в функциональном стиле](http://learn.javascript.ru/oop)
     - [ ] [JavaScript: ООП в прототипном стиле](http://learn.javascript.ru/prototypes)
 
