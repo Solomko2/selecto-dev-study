@@ -45,6 +45,9 @@
     - [ ] [Lingualeo](https://lingualeo.com/)
     - [ ] [Babadum](https://babadum.com/)
     - [ ] [Medium](https://medium.com/) блог-платформа, читати та писати статті
+    - [ ] [Grammarly](https://grammarly.com/) перевірка правопису
+    - [ ] [Ginger](http://www.gingersoftware.com/grammarcheck) перевірка правопису
+    - [ ] [Thesaurus](http://www.thesaurus.com/) словник з синонімами. корисно коли потрібно підібрати точну назву для функції чи змінної
 
 ---
 
@@ -107,6 +110,8 @@
     - [ ] [htmlbook](http://htmlbook.ru/)
     - [ ] [HTML academy](https://htmlacademy.ru/)
     - [ ] [CSS/CSS3 Sorax](https://www.youtube.com/watch?v=IsZDtOYUWvk&list=PL026CCEB5125879C2)
+    - [ ] [CSS Reference](https://tympanus.net/codrops/css_reference/)
+    
 
 ---
 
@@ -160,6 +165,9 @@
     - [ ] Версии проекта, теги
     - [ ] Базовые принципы разработки ПО в VCS
     - [ ] Ежедневный цикл работы
+    
+- [ ] Статті:    
+    - [ ] [Git Tips](https://github.com/Imangazaliev/git-tips)
 
 - [ ] Курс:
     - [ ] [Git How To](https://githowto.com/ru)
